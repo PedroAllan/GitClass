@@ -1,10 +1,10 @@
 Aula de Git
 
-Segundo teste de mudança
-Após primeiro commit
-Teste de novo
-Continuo fazendo alterações
-Mais recente
+Foram realizados testes dos principais comandos do Git, exemplo:
 
-Visualizando diferença antes do Commit
-sadfsdjfhdlfkl
+Criação de repositório;
+Rastreamento de mudanças;
+Adições de mudanças;
+Commits;
+Link com Remote Repository;
+etc;
