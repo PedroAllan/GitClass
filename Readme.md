@@ -8,3 +8,5 @@ Adições de mudanças;
 Commits;
 Link com Remote Repository;
 etc;
+
+PS. Preciso praticar os comandos
